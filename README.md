@@ -9,3 +9,4 @@ MyPreceptron-The preceptron model<br>
 PreceptronTest-Use the Preceptron model
 
 ## Result 
+![Result](https://github.com/SJTUSky/Image/blob/master/Preceptron_1.png)
