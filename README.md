@@ -7,3 +7,5 @@ numpy
 ## File introduction
 MyPreceptron-The preceptron model<br>
 PreceptronTest-Use the Preceptron model
+
+## Result 
