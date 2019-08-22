@@ -1,12 +1,9 @@
 # Basical_ML
-Source codes of preceptron
+Source codes of basical machine learning algotithm
 
 ## Installation requirements
 numpy
 
-## File introduction
-MyPreceptron-The preceptron model<br>
-PreceptronTest-Use the Preceptron model
+## Folder introduction
+Preceptron
 
-## Result 
-![Result](https://github.com/SJTUSky/Image/blob/master/Preceptron_1.png)
