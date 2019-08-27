@@ -2,8 +2,8 @@
 Source codes of preceptron
 
 ## Installation requirements
-numpy
-pandas
+numpy<br>
+pandas<br>
 collections
 
 ## File introduction
