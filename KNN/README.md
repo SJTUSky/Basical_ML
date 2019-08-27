@@ -5,7 +5,7 @@ Source codes of preceptron
 numpy
 
 ## File introduction
-MyPreceptron-The preceptron model<br>
-PreceptronTest-Use the Preceptron model
+MyKNN-The KNN model<br>
+KNNTest-Use the KNN model
 
 ## Result
