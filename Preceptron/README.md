@@ -1,4 +1,4 @@
-# Basical_ML
+# Preceptron
 Source codes of preceptron
 
 ## Installation requirements
