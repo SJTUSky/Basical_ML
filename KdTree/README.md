@@ -1,4 +1,4 @@
-# Preceptron
+# KdTree
 Source codes of kd-Tree
 
 ## Installation requirements
