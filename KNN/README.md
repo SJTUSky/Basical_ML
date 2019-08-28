@@ -1,5 +1,5 @@
-# Preceptron
-Source codes of preceptron
+# KNN
+Source codes of KNN
 
 ## Installation requirements
 numpy<br>
