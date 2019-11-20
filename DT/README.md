@@ -1,4 +1,4 @@
-# NaiveBayes
+# Decision Tree
 Source codes of Decision Tree
 
 ## Installation requirements
